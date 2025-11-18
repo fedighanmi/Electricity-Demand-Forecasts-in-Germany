@@ -1,6 +1,6 @@
 # Energy Demand Modelling in Germany
 
-This repository contains the work developed as part of the *Case Studies 2* module in the **Master in Data Science at Technical University of Dortmund**.
+This repository contains the work developed as part of the *Case Studies* module in the **Master in Data Science at Technical University of Dortmund**.
 The goal of the project is to preprocess, analyze, model and derive conclusions from the energy demand data for Germany.
 
 ---
