@@ -28,8 +28,8 @@ Contains the written project report, including:
 * Data methodology
 * Data Analysis
 * Modelling of the Data
-* Results Presentation
-* Discussion of findings
+* Empirical Results
+* Discussion of findings and limitations
 * All relevant references
 
 
