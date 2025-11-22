@@ -35,7 +35,7 @@ Contains the written project report, including:
 
 ### **`Energy Demand Modelling in Germany.ipynb`**
 
-The main Jupyter notebook where the full analysis coding workflow is implemented: exploration, preprocessing, modeling, and results.
+The main Jupyter notebook where the entire coding workflow is implemented.
 
 ---
 
